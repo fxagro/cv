@@ -135,9 +135,9 @@ export const siteConfig: SiteConfig = {
   // ---------------------------------------------------------------------------
   meta: {
     titleTemplate: '{{name}} | {{title}}',
-    defaultDescription: 'Professional resume and portfolio website',
-    keywords: ['resume', 'portfolio', 'developer', 'software engineer', 'web developer'],
-    siteUrl: 'https://your-domain.com',
+    defaultDescription: 'Resume dan portfolio profesional Agus Rochman - Software Engineer',
+    keywords: ['resume', 'portfolio', 'software engineer', 'developer', 'web developer', 'Indonesia'],
+    siteUrl: 'https://agusrochman.dev',
     locale: 'en',
   },
 

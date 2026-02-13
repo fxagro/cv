@@ -96,20 +96,20 @@ export const profile: Profile = {
   // -------------------------------------------------------------------------
   // BASIC INFO (Required)
   // -------------------------------------------------------------------------
-  name: 'Alex Johnson',
+  name: 'Agus Rochman',
   title: 'Senior Software Engineer',
   photo: '/images/profile.jpg', // Set to '' to hide photo
-  email: 'alex.johnson@example.com',
-  location: 'San Francisco, CA',
+  email: 'agus.rochman@example.com',
+  location: 'Jakarta, Indonesia',
 
   // -------------------------------------------------------------------------
   // CONTACT & SOCIAL (Optional - remove or set to undefined if not needed)
   // -------------------------------------------------------------------------
-  phone: '+1 (555) 123-4567',
-  website: 'https://alexjohnson.dev',
-  linkedin: 'https://linkedin.com/in/alexjohnson',
-  github: 'https://github.com/alexjohnson',
-  twitter: 'https://twitter.com/alexjohnson',
+  phone: '+62 812-3456-7890',
+  website: 'https://agusrochman.dev',
+  linkedin: 'https://linkedin.com/in/agusrochman',
+  github: 'https://github.com/agusrochman',
+  twitter: 'https://twitter.com/agusrochman',
 
   // -------------------------------------------------------------------------
   // PROFESSIONAL SUMMARY
